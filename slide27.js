@@ -1,4 +1,0 @@
-(function(){var loadHandler=window['sl_{A6480385-B57D-4CE9-8B87-63625FC7181B}'];loadHandler&&loadHandler(26, '<div id="spr0_136611cd0"><div id="spr1_136611cd0" class="kern slide"><img id="img3_136611cd0" src="data/img15.png" width="1280px" height="720px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_136611cd0" class="kern slide"><div id="spr3_136611cd0" style="top:9.83px;"><img id="img0_136611cd0" src="data/img133.jpg" width="1280.25" height="720" alt="图形用户界面, 应用程序\
-\
-描述已自动生成" style="left:-0.094px;"/></div><div id="spr4_136611cd0" style="left:436.5px;top:643.5px;"><img id="img1_136611cd0" src="data/img134.png" width="449.25" height="37.5" alt="Sample Planogram\
-"/></div><div id="spr5_136611cd0" style="left:32.365px;top:671.702px;"><img id="img2_136611cd0" src="data/img105.png" width="32.25" height="38.25" alt="" style="left:0.112px;top:0.082px;"/></div></div></div>', '{"s":[]}');})();

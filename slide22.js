@@ -1,9 +1,0 @@
-(function(){var loadHandler=window['sl_{A6480385-B57D-4CE9-8B87-63625FC7181B}'];loadHandler&&loadHandler(21, '<div id="spr0_136610b6b"><div id="spr1_136610b6b" class="kern slide"><img id="img7_136610b6b" src="data/img15.png" width="1280px" height="720px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_136610b6b" class="kern slide"><div id="spr3_136610b6b" style="left:-0px;top:-0px;"><img id="img0_136610b6b" src="data/img100.png" width="1280.25" height="720" alt="电脑合成图\
-\
-低可信度描述已自动生成" style="left:-0.094px;top:0px;"/></div><div id="spr4_136610b6b" style="top:336.618px;"><img id="img1_136610b6b" src="data/img103.png" width="1280.25" height="227.25" alt="" style="left:-0.094px;top:-0.024px;"/></div><div id="spr5_136610b6b" style="left:112.907px;top:263.11px;"><div id="spr6_136610b6b" style="left:655.093px;top:-49.36px;"><img id="img2_136610b6b" src="data/img114.png" width="447" height="450" alt="图片包含 图示\
-\
-描述已自动生成"/></div><div id="spr7_136610b6b" style="left:-49.157px;top:15.14px;"><img id="img3_136610b6b" src="data/img115.png" width="381" height="384" alt="图片包含 图示\
-\
-描述已自动生成"/></div><div id="spr8_136610b6b" style="left:265.843px;top:-35.86px;"><img id="img4_136610b6b" src="data/img116.png" width="429" height="432" alt="图片包含 图示\
-\
-描述已自动生成"/></div></div><div id="spr9_136610b6b" style="left:1280px;top:92.362px;"><img id="img5_136610b6b" src="data/img102.png" width="1280.25" height="80.25" alt="" style="left:-0.094px;top:0.042px;"/></div><div id="spr10_136610b6b" style="left:23.665px;top:18.043px;"><div style="width:0px;"><span id="txt0_136610b6b" data-width="149.140625" style="left:9.6px;top:3.951px;">Donut</span></div></div><div id="spr11_136610b6b" style="left:32.365px;top:671.702px;"><img id="img6_136610b6b" src="data/img105.png" width="32.25" height="38.25" alt="" style="left:0.112px;top:0.082px;"/></div></div></div>', '{"s":[]}');})();
