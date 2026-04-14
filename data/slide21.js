@@ -1,0 +1,11 @@
+(function(){var loadHandler=window['sl_{A6480385-B57D-4CE9-8B87-63625FC7181B}'];loadHandler&&loadHandler(20, '<div id="spr0_1366108ab"><div id="spr1_1366108ab" class="kern slide"><img id="img8_1366108ab" src="data/img15.png" width="1280px" height="720px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_1366108ab" class="kern slide"><div id="spr3_1366108ab" style="left:-0px;top:0.762px;"><img id="img0_1366108ab" src="data/img100.png" width="1280.25" height="720" alt="电脑合成图\
+\
+低可信度描述已自动生成" style="left:-0.094px;top:0px;"/></div><div id="spr4_1366108ab" style="top:336.618px;"><img id="img1_1366108ab" src="data/img103.png" width="1280.25" height="227.25" alt="" style="left:-0.094px;top:-0.024px;"/></div><div id="spr5_1366108ab" style="left:31.363px;top:180.023px;"><div id="spr6_1366108ab" style="left:728.387px;top:96.727px;"><img id="img2_1366108ab" src="data/img110.png" width="498.75" height="351" alt="图片包含 日历\
+\
+描述已自动生成"/></div><div id="spr7_1366108ab" style="left:528.887px;top:72.727px;"><img id="img3_1366108ab" src="data/img111.png" width="330.75" height="342" alt="图形用户界面\
+\
+中度可信度描述已自动生成"/></div><div id="spr8_1366108ab" style="left:171.887px;top:111.727px;"><img id="img4_1366108ab" src="data/img112.png" width="522" height="316.5" alt="图片包含 图形用户界面\
+\
+描述已自动生成"/></div><div id="spr9_1366108ab" style="left:-37.363px;top:121.477px;"><img id="img5_1366108ab" src="data/img113.png" width="429" height="287.25" alt="图形用户界面\
+\
+描述已自动生成"/></div></div><div id="spr10_1366108ab" style="left:1280px;top:92.362px;"><img id="img6_1366108ab" src="data/img102.png" width="1280.25" height="80.25" alt="" style="left:-0.094px;top:0.042px;"/></div><div id="spr11_1366108ab" style="left:23.665px;top:18.043px;"><div style="width:0px;"><span id="txt0_1366108ab" data-width="315.703125" style="left:9.6px;top:3.951px;">Standing Box</span></div></div><div id="spr12_1366108ab" style="left:32.365px;top:671.702px;"><img id="img7_1366108ab" src="data/img105.png" width="32.25" height="38.25" alt="" style="left:0.112px;top:0.082px;"/></div></div></div>', '{"s":[]}');})();
