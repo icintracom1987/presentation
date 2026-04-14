@@ -1,0 +1,9 @@
+(function(){var loadHandler=window['sl_{A6480385-B57D-4CE9-8B87-63625FC7181B}'];loadHandler&&loadHandler(19, '<div id="spr0_13661058f"><div id="spr1_13661058f" class="kern slide"><img id="img7_13661058f" src="data/img15.png" width="1280px" height="720px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_13661058f" class="kern slide"><div id="spr3_13661058f" style="left:-0px;top:-0px;"><img id="img0_13661058f" src="data/img100.png" width="1280.25" height="720" alt="电脑合成图\
+\
+低可信度描述已自动生成" style="left:-0.094px;top:0px;"/></div><div id="spr4_13661058f" style="top:336.618px;"><img id="img1_13661058f" src="data/img103.png" width="1280.25" height="227.25" alt="" style="left:-0.094px;top:-0.024px;"/></div><div id="spr5_13661058f" style="left:174.933px;top:127.332px;"><div id="spr6_13661058f" style="left:309.567px;top:7.668px;"><img id="img2_13661058f" src="data/img107.png" width="293.25" height="546.75" alt="电子产品的特写\
+\
+描述已自动生成"/></div><div id="spr7_13661058f" style="left:570.567px;top:-37.332px;"><img id="img3_13661058f" src="data/img108.png" width="261.75" height="598.5" alt="文本\
+\
+描述已自动生成"/></div><div id="spr8_13661058f" style="left:56.067px;top:55.668px;"><img id="img4_13661058f" src="data/img109.png" width="309" height="495" alt="图形用户界面\
+\
+描述已自动生成"/></div></div><div id="spr9_13661058f" style="left:1280px;top:92.362px;"><img id="img5_13661058f" src="data/img102.png" width="1280.25" height="80.25" alt="" style="left:-0.094px;top:0.042px;"/></div><div id="spr10_13661058f" style="left:23.665px;top:18.043px;"><div style="width:0px;"><span id="txt0_13661058f" data-width="299.739563" style="left:9.6px;top:3.951px;">Hanging Box</span></div></div><div id="spr11_13661058f" style="left:32.365px;top:671.702px;"><img id="img6_13661058f" src="data/img105.png" width="32.25" height="38.25" alt="" style="left:0.112px;top:0.082px;"/></div></div></div>', '{"s":[]}');})();

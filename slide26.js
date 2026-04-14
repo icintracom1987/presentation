@@ -1,0 +1,7 @@
+(function(){var loadHandler=window['sl_{A6480385-B57D-4CE9-8B87-63625FC7181B}'];loadHandler&&loadHandler(25, '<div id="spr0_1366119c2"><div id="spr1_1366119c2" class="kern slide"><img id="img4_1366119c2" src="data/img15.png" width="1280px" height="720px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_1366119c2" class="kern slide"><div id="spr3_1366119c2" style="top:1.096px;"><img id="img0_1366119c2" src="data/img130.jpg" width="1280.25" height="720" alt="Ein Bild, das Regal, Text, Lagerhaus, Schwarzweiß enthält.\
+\
+KI-generierte Inhalte können fehlerhaft sein." style="left:-0.094px;"/></div><div id="spr4_1366119c2" style="left:633.75px;top:530.25px;"><img id="img1_1366119c2" src="data/img131.png" width="331.5" height="112.5" alt="Sample\
+Planogram\
+"/></div><div id="spr5_1366119c2" style="left:296px;top:143.85px;"><img id="img2_1366119c2" src="data/img132.jpg" width="300.75" height="487.5" alt="Ein Bild, das Text, Screenshot, Schrift, Marke enthält.\
+\
+KI-generierte Inhalte können fehlerhaft sein." style="left:0.102px;top:0.027px;"/></div><div id="spr6_1366119c2" style="left:32.365px;top:671.702px;"><img id="img3_1366119c2" src="data/img105.png" width="32.25" height="38.25" alt="" style="left:0.112px;top:0.082px;"/></div></div></div>', '{"s":[]}');})();
